@@ -1,4 +1,4 @@
-//Experiment 2 ; 16010120089 ; Bharat Nema
+//Experiment 2 ;
 
 public class experimentTwo {
     public int[] inputArray;
