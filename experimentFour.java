@@ -1,6 +1,4 @@
 //This file was submitted separately since it was too big.
-//Bharat Nema
-//16010120089
 
 import java.util.Scanner;
 
